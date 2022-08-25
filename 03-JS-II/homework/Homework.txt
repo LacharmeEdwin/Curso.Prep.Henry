@@ -1,0 +1,13 @@
+El bucle for: es una sentencia para realizar operaciones repetitivas hasta cuando se cumple una condicion,
+normelmente este número de repeticiones ya estan claras para la persona que utiliza la sentencia y desde 
+la declaración de la sentencia se define una variable que va a hacer la labor de controlar la cantidad de
+repeticiones.
+
+Los operadores lógicos sirven para realizar acciones dependiendo que se cumplan la condicion que se plantea
+algunos operadores son el && (Y) el || (O) y la negación. En otras palabras o mejor con un ejemplo si yo
+quiero viejar debo tener plata y tiempo, ahi estoy utilizando el operador && que me dice que necesariamente
+se deben cumplir las dos cosas para poder viajar, así mismo funcionan en JS, se deberan cumplir las dos 
+condiciones para realizar algunas acciones (si fuese elcaso de solo dos condiciones) o como diriamos nos
+da un resultado de verdad que toma el valos de true y false. De esa misma manera podemos interpretar los 
+demas operadores como lo es el || que solo con algo que se cumpla lo realiza o la negación que sería 
+negar algo.
