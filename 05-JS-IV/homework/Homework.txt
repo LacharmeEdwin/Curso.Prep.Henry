@@ -1,0 +1,15 @@
+Objetos: los objetos se parecen a los arreglos solo que los objetos no tienen un indice para indicar el
+espacio que queremos acceder, tiene un identificador que yo mismo declaro (clave) y este identificador 
+(clave) puede ser un número, caracter, cadaena de caracteres, funciones, arreglos, etc.
+
+Propiedades: son las caracteristicas que tiene un objeto.
+
+Metodos: son las funciones que realizan acciones, en ellas se pueden definir variables, operaciones.
+
+Bucle: son acciones que se deben realizar de manera repetitiva, estás se controlan normalmente por
+medio de un indice para determinar la condición de terminar las repeticiones. El for...in se utliza
+para repetir unas acciones y recorrer las claves de un objeto.
+
+Notación de puntos vs notación de corchetes: es la forma en la que se puede acceder a las propiedades de
+un objeto, se puede hacer median un punto (.) 0 mediante corchetes ([]) con el nombre de la clave que se 
+quiere acceder.
