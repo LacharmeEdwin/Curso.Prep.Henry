@@ -1,0 +1,7 @@
+Un arreglo o array es un espacio donde puedo guardar información, el cual se va a ir identificando por
+un valor de posición, en otras palabras es como si tubiera un edificio y cada piso es la posicion, y en
+cada piso puedo guardar lo que yo quiera llamese variable, funcion, otro arreglo, etc. y con cada
+información que tenga guarda en la posicion puedo hacer operaciones o acciones.
+
+Ya la forma de acceder a la información es decirle la posicion en la cual se encuentra o recorrerlo mediante
+un recorrido por metodos como el for o while.
