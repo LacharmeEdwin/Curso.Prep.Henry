@@ -1,0 +1,6 @@
+Funciones Callback: Son funciones que reciben funciones como parametros para que se ejecuten dentro de la
+funcion que hace el llamado, sirven para realizar acciones ya diseñadas en la función parametro y que
+sirven para la funciones o las acciones que se van a realizar en la función que hace el llamado.
+
+Ya existen funciones que realizan callback como lo son: forEach(); .map(); .reduce(); que hacen parte de
+las funciones de los arreglos.
