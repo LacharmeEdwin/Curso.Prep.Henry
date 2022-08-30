@@ -1,0 +1,9 @@
+prototype: Es el modelo o plantilla de la cual se pueden crear instancias (objetos) con todas las
+caracteristicas y funciones que esta plantilla tenga. En otras palabras es una estructura de espacios
+que todos los objetos que creamos tendran. Por ejemplo, el prototype Casa tiene habitaciones, baños,
+garaje, etc., y puedo crear diferentes casas (objetos) con algunas caracteristicas del prototype Casa
+o con todas.
+
+_Constructors_ (de Clases): Los constructores de clases son funciones que generan o hacen la 
+inicialización de un objeto que fue creado por medio de una clase o prototype, estas deben llamarse 
+en el momento de la creación del objeto, de esta forma el objeto tiene unos valores iniciales.
