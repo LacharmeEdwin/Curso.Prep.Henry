@@ -1,10 +1,31 @@
 h1 {
-    color: black;
+    color: white;
+}
+.divClass {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+.box {
+    display: flex;
+    justify-content: space-between;   
+}
+.container img {
+    margin 0 0 1em 1em; 
+    float: right
 }
 img {
     width: 200px;
 }
+.after-container {
+    clear: right;
+}
 #thirdDiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     height: 600px;
     width: 500px;
     background-color: cornflowerblue;
@@ -12,6 +33,9 @@ img {
     border: 5px inset aquamarine;
 }
 #spanId {
-    font-size: 18px;
+    font-size: 22px;
     margin: 50px;
+}
+body {
+    background-image: url("https://restaurante.guide/wp-content/uploads/2020/01/el-penjaus-paisa-logo.jpg");
 }
